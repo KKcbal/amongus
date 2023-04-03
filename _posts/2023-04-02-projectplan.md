@@ -41,3 +41,9 @@ title: Lesson Plan Outline
 - 0.2 for Notes
 - 0.1 for extra credit 
 ( Still figuring out what we are going to do for extra credit)
+
+![photo]({{site.baseurl}}/images/3333.png)
+
+![photo]({{site.baseurl}}/images/444.png)
+
+
