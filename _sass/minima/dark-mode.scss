@@ -1,9 +1,16 @@
 $high-emph: rgba(#935f4c, 0.87);
 $med-emph: rgba(#935f4c, 0.69); //Noicee
 $low-emph: rgba(#935f4c, 0.38);
+<<<<<<< HEAD
 // $linear-gradient : #1F1B24;
 $overlay: mix($linear-gradient, white, 95%);
 $overlay-light: mix($linear-gradient, white, 86%);
+=======
+$dark-grey : #EFEBE5;
+// $dark-grey : #1F1B24;
+$overlay: mix($dark-grey, white, 95%);
+$overlay-light: mix($dark-grey, white, 86%);
+>>>>>>> 994df4fdfe0951cde9af63b6cc835896dc31ff2d
 
 html, body, input, textarea, select, button {   
   color: $high-emph !important;
