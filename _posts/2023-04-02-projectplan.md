@@ -10,13 +10,16 @@ title: Lesson Plan Outline
 
 # Overview 
 
-- Teach about Data Analysis and predicitive Analysis
+- Teach about Data Analysis, predicitive Analysis, Tenser Flow, Pandas, Numpy
 
 # Topics
 
 - Data Analysis including Numpy and Pandas (Big Idea 2). Learn something that is a hot technlogy.
     - Data Analysis
     - Predcitive Analysis
+    - Tenser Flow
+    - Pandas
+    - Numpy
 
 # Plan for Lesson
 
