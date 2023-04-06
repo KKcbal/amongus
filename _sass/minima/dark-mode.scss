@@ -1,7 +1,9 @@
 html, body, input, textarea, select, button {   
     color: #ffffff !important;
-    background: repeating-conic-gradient(rgb(4, 0, 255) 0deg 10deg, rgb(0, 255, 21) 10deg 20deg, rgb(0, 217, 255) 20deg 30deg);
-    border-radius: 50%;
+    background: linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),            
+                linear-gradient(127deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%),            
+                linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+    
 }
   a, h3, h1 {
       color: #ffffff !important;
