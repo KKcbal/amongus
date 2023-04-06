@@ -433,7 +433,7 @@ a:hover { color: #ff4d4d !important; }
 
 .site-title, .site-title:visited, .site-nav, .page-link { color: #ff4d4d !important; }
 
-.site-nav { background: linear-gradient(to bottom right, #0052cc, #ff4d4d); border-color: #fffbe5; }
+.site-nav { /* background: linear-gradient(to bottom right, #0052cc, #ff4d4d);*/ border-color: #fffbe5; }
 
 * { scrollbar-color: #fffae5 #fffbe5; }
 
