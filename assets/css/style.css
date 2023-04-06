@@ -425,13 +425,13 @@ pre code { font-size: 15px !important; }
 
 .youtube-iframe-wrapper iframe, .youtube-iframe-wrapper object, .youtube-iframe-wrapper embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
 
-html, body, input, textarea, select, button { color: #ff4d4d !important; background: linear-gradient(to bottom right, #0052cc, #ff4d4d) !important; }
+html, body, input, textarea, select, button { color: #ffffff !important; background: linear-gradient(90deg, #4b6cb7 0%, #182848 100%); }
 
-a { color: #c64949 !important; }
+a, h3, h1 { color: #ffffff !important; }
 
-a:hover { color: #ff4d4d !important; }
+a:hover { color: #cfcfcf !important; }
 
-.site-title, .site-title:visited, .site-nav, .page-link { color: #ff4d4d !important; }
+.site-title, .site-title:visited, .site-nav, .page-link { color: #ffffff !important; }
 
 .site-nav { /* background: linear-gradient(to bottom right, #0052cc, #ff4d4d);*/ border-color: #fffbe5; }
 
@@ -439,13 +439,13 @@ a:hover { color: #ff4d4d !important; }
 
 pre, code { border-color: #fffbe5; background: linear-gradient(to bottom right, #0052cc, #ff4d4d); }
 
-.page-description { color: #935f4c; }
+.page-description { color: #565656; }
 
-.post-meta { color: #935f4c; }
+.post-meta { color: #ffffff; }
 
-.post-content p, .post-content li { color: #935f4c; }
+.post-content p, .post-content li { color: #ffffff; }
 
-.btn { background: linear-gradient(to bottom right, #0052cc, #ff4d4d) !important; color: #ff4d4d !important; border-color: #fffbe5 !important; }
+.btn { background: #22c1c3; background: linear-gradient(0deg, #22c1c3 0%, #fdbb2d 100%); color: #ff4d4d !important; border-color: #fffbe5 !important; }
 
 .btn:hover { background-color: #fffae5 !important; }
 
@@ -457,9 +457,9 @@ table td { background: linear-gradient(to bottom right, #0052cc, #ff4d4d); borde
 
 canvas { filter: invert(100%); }
 
-.post-list > li > div { box-shadow: none !important; background: linear-gradient(to bottom right, #0052cc, #ff4d4d); border: none !important; }
+.post-list > li > div { box-shadow: none !important; background: linear-gradient(to bottom right, #3a3a3a, #020202); border: 1cm  !important; }
 
-li .post-meta-description { color: #935f4c !important; }
+li .post-meta-description { color: #ffffff !important; }
 
 /*-----------------------------------*/
 /*----- ADD YOUR STYLES BELOW -------*/
