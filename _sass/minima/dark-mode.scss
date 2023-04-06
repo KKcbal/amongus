@@ -1,18 +1,17 @@
 html, body, input, textarea, select, button {   
-    color: #ff4d4d !important;
-    background: linear-gradient(to bottom right, #0052cc, #ff4d4d) !important;
-  }
-  
-  a {
-      color: #c64949 !important;
+    color: #ffffff !important;
+    background: linear-gradient(90deg, #4b6cb7 0%, #182848 100%);
+}
+  a, h3, h1 {
+      color: #ffffff !important;
   }
   
   a:hover {
-      color: #ff4d4d !important;
+      color: #cfcfcf !important;
   }
   
   .site-title, .site-title:visited, .site-nav, .page-link {
-      color: #ff4d4d !important;
+      color: #ffffff !important;
   }
   
   .site-nav {
@@ -30,20 +29,20 @@ html, body, input, textarea, select, button {
   }
   
   .page-description {
-      color: #935f4c;
+      color: #565656;
   }
   
   .post-meta {
-      color: #935f4c;
+      color: #ffffff;
   }
   
   .post-content p, .post-content li {
-      color: #935f4c;
+      color: #ffffff;
   }
   
   .btn {
-      background: linear-gradient(to bottom right, #0052cc, #ff4d4d) !important;
-      color: #ff4d4d !important;
+    background: rgb(34,193,195);
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);      color: #ff4d4d !important;
       border-color: #fffbe5 !important;
   }
   
@@ -74,11 +73,11 @@ html, body, input, textarea, select, button {
   
   .post-list > li > div {
       box-shadow: none !important;
-      background: linear-gradient(to bottom right, #0052cc, #ff4d4d);
-      border: none !important;
+      background: linear-gradient(to bottom right, #3a3a3a, #020202);
+      border: 1cm  !important;
   }
   
   li .post-meta-description {
-      color: #935f4c !important;
+      color: #ffffff !important;
   }
   
