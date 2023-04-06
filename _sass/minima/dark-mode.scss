@@ -25,11 +25,11 @@ html, body, input, textarea, select, button {
   
   pre, code {
       border-color: #fffbe5;
-      background: linear-gradient(to bottom right, #0052cc, #ff4d4d);
+      background: linear-gradient(to bottom right, #707070, #707070);
   }
   
   .page-description {
-      color: #565656;
+      color: #c7c7c7;
   }
   
   .post-meta {
@@ -51,15 +51,15 @@ html, body, input, textarea, select, button {
   }
   
   table th{
-      background: linear-gradient(to bottom right, #0052cc, #ff4d4d);
+      background: linear-gradient(to bottom right, #0052cc00, #ff4d4d00);
       border-color: #fffbe5;
-      color: #ff4d4d;
+      color: #ffffff;
   }
   
   table td{
-      background: linear-gradient(to bottom right, #0052cc, #ff4d4d);
+      background: linear-gradient(to bottom right, #ffffff00, #ff4d4d00);
       border-color: #fffbe5;
-      color: #935f4c;
+      color: #ffffff;
   }
   
   .flash {
