@@ -2,6 +2,17 @@
   
     
         "post0": {
+            "title": "Theme test (ignore this)",
+            "content": "Hello World . Hello World . Hello World . Hello World . Hello World . Hello World . Hello Word . Hello world | . hello world . Hello world . print(&quot;Hello world&quot;) .",
+            "url": "https://kkcbal.github.io/amongus/fastpages/markdown/2023/04/08/theme-testing.html",
+            "relUrl": "/fastpages/markdown/2023/04/08/theme-testing.html",
+            "date": " • Apr 8, 2023"
+        }
+        
+    
+  
+    
+        ,"post1": {
             "title": "Data Analysis and Predcitive Analysis",
             "content": "Notes - Data Analysis . Data analysis is the process of examining, cleaning, transforming, and modeling data in order to extract useful information and draw conclusions. . The process of data analysis involves many steps . Data collection: Gathering relevant data from various sources. Data cleaning: Removing inconsistencies, errors, or missing values from the data. Data transformation: Converting data into a format that is more suitable for analysis. Data modeling: Using statistical or machine learning techniques to analyze the data. Data visualization: Presenting the results of the analysis in a clear and concise manner using graphs, charts, or other visual aids. . Notes - Predicitive Analysis . Predictive analysis is the process of using data, statistical algorithms, and machine learning techniques to identify the likelihood of future outcomes based on historical data. It is a branch of advanced analytics Predictive analysis involves extracting information from data sets and using it to predict patterns and future trends. It involves analyzing large amounts of data and identifying patterns and relationships that can be used to forecast future outcomes. . Examples . Retail. At present, retailers are probably the leading users of predictive - analytics applications Healthcare Internet of Things Sports Weather Insurance Financial Modeling Social Media Analysis .",
             "url": "https://kkcbal.github.io/amongus/2023/04/03/eli-and-kahlid-duo.html",
@@ -12,7 +23,7 @@
     
   
     
-        ,"post1": {
+        ,"post2": {
             "title": "Tenser Flow",
             "content": "What is Pandas? . Pandas is an open source Python package which is used for data analysis and machine learning. Pandas is built using numpy which supports it using multidimensional arrays such as what is shown below: . import numpy as np a = np.array([1, 2, 3, 4, 5, 6]) print(a) b = np.reshape( a, # the array to be reshaped (2,3) # dimensions of the new array ) print(b) . [1 2 3 4 5 6] [[1 2 3] [4 5 6]] . Data can then be manipulated using pandas to do all sorts of different things such as data cleaning, statistical analysis, and data visualization. Below is an example of data visualization in a table using pandas. . import pandas as pd pd.__version__ . &#39;1.4.2&#39; . classes = pd.Series([&quot;Mathematics&quot;,&quot;Chemistry&quot;,&quot;Physics&quot;,&quot;History&quot;,&quot;Geography&quot;,&quot;German&quot;]) grades = pd.Series([90,54,77,22,25]) pd.DataFrame({&quot;Classes&quot;: classes, &quot;Grades&quot;: grades}) . Classes Grades . 0 Mathematics | 90.0 | . 1 Chemistry | 54.0 | . 2 Physics | 77.0 | . 3 History | 22.0 | . 4 Geography | 25.0 | . 5 German | NaN | . What is TenserFlow? . Tensor Flow is a machine learning platform which has tools to validate and transform large datasets and also provides standard datasets for machine learning training. . An example of this is the fashion MNIST (Modified National Institute of Standards and Technology) database: . In this dataset there are many pictures which are each28x28 Numpy arrays. .",
             "url": "https://kkcbal.github.io/amongus/jupyter/week-28/2023/04/03/TenserFlow.html",
@@ -23,7 +34,7 @@
     
   
     
-        ,"post2": {
+        ,"post3": {
             "title": "Lesson Plan Outline",
             "content": "Overview . Teach about Data Analysis, predicitive Analysis, Tenser Flow, Pandas, Numpy | . Topics . Data Analysis including Numpy and Pandas (Big Idea 2). Learn something that is a hot technlogy. Data Analysis | Predcitive Analysis | Tenser Flow | Pandas | Numpy | . | . Plan for Lesson . Definitions of each topic | Examples of both that show how it’s used in the real world | Practice problems that everyone needs to participate in ( candy for correct answers ) | . Plan for Hacks . Practice problems ( Also create your own ) | Create a diagram showing what you have learned about the topics above | Notes of each question answered | . Grading . 0.4 for the Diagram | 0.3 for Practice Problems | 0.2 for Notes | 0.1 for extra credit ( Still figuring out what we are going to do for extra credit) | . . .",
             "url": "https://kkcbal.github.io/amongus/fastpages/markdown/2023/04/02/projectplan.html",
