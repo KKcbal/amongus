@@ -1,21 +1,19 @@
-Name, Age, Gender, Salary
-John, 28, Male, 50000
-Sarah, 32, Female, 60000
-Mike, 45, Male, 75000
-Lisa, 26, Female, 45000
-Dave, 39, Male, 80000
-Emily, 31, Female, 55000
-Jason, 24, Male, 40000
-Michelle, 28, Female, 65000
-Tom, 50, Male, 90000
-Jessica, 35, Female, 70000
-Jacob, 29, Male, 60000
-Natalie, 27, Female, 50000
-Oliver, 41, Male, 85000
-Grace, 30, Female, 55000
-Ethan, 32, Male, 65000
-Mia, 28, Female, 50000
-William, 47, Male, 95000
-Sophia, 26, Female, 45000
-Henry, 35, Male, 80000
-Avery, 29, Female, 60000
+Name,Age,Gender,Occupation
+John Doe,32,Male,Engineer
+Jane Smith,27,Female,Teacher
+Mike Johnson,45,Male,Manager
+Sara Lee,38,Female,Doctor
+David Kim,23,Male,Student
+Anna Garcia,29,Female,Software Developer
+Robert Green,41,Male,Architect
+Emily Davis,35,Female,Marketing Manager
+Carlos Hernandez,47,Male,Entrepreneur
+Melissa Nguyen,25,Female,Graphic Designer
+Kevin Lee,31,Male,Accountant
+Rachel Baker,26,Female,Journalist
+Jacob Johnson,34,Male,Lawyer
+Maria Rodriguez,39,Female,Consultant
+Mark Taylor,28,Male,Web Designer
+Victoria Brown,42,Female,Human Resources Manager
+Ethan Chen,24,Male,Research Assistant
+Sophie Lee,30,Female,Project Manager
